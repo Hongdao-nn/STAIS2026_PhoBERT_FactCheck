@@ -1,7 +1,7 @@
 # Configuration-Level Analysis of PhoBERT for Vietnamese Economic and Business Fact Verification: Performance and Computational Cost
 
 [![Conference](https://img.shields.io/badge/Conference-STAIS%202026-blue.svg)](https://stais.org)
-[![Award](https://img.shields.io/badge/Award-Best%20Paper%20Award%20%F0%9F%8F%86-gold.svg)](#)
+[![Award](https://img.shields.io/badge/Award-Best%20Paper%20Award%20%F0%9F%8F%86-gold.svg)](docs/STAIS2026_Best_Paper_Certificate.pdf)
 [![Python](https://img.shields.io/badge/Python-3.10%2B-brightgreen.svg)](https://www.python.org/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0%2B-red.svg)](https://pytorch.org/)
 [![HuggingFace](https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Transformers-yellow.svg)](https://huggingface.co/)
