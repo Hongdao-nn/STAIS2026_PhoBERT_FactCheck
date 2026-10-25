@@ -119,7 +119,7 @@ STAIS2026_PhoBERT_FactCheck/
 
 ### 1. Clone & Setup Environment
 ```bash
-git clone https://github.com/your-username/STAIS2026_PhoBERT_FactCheck.git
+git clone https://github.com/Hongdao-nn/STAIS2026_PhoBERT_FactCheck.git
 cd STAIS2026_PhoBERT_FactCheck
 
 # Create virtual environment
